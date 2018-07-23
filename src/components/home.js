@@ -15,9 +15,8 @@ class Home extends Component {
 }
 
 // things we need to fix
-// placeholder
-// gray and green number labels
+
 // content labels
-// gernerate btn space/cardheight
+// gernerate btn space/card-height
 
 export default Home;
